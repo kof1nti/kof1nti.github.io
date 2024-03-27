@@ -1,0 +1,31 @@
+Set odbc connection on your local machine .
+odbc connection params are used to connect postgres db with R 
+to facilitate write 
+
+
+
+CREATE TABLE grid2 (
+	fid numeric,
+	grid_ref_uid varchar,
+	longitude_centroid double precision,
+	latitude_centroid double precision,
+	x_centroid double precision,
+	y_centroid double precision,
+	lw double precision,
+	ue double precision,
+	uw double precision,
+	le double precision,
+	lw_4326 double precision,
+	ue_4326  double precision,
+	uw_4326 double precision,
+	le_4326 double precision,
+	area double precision,
+	date date,
+	author varchar
+);
+
+
+
+
+
+
