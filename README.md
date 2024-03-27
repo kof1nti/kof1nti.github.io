@@ -3,7 +3,7 @@ A portfolio on creating a 2m square grids in R
 Steps in creating grid in R  portfolio
 kof1nti.github.io
 
-[grid portfolio](kof1nti.github.io)
+[grid portfolio](https://kof1nti.github.io/)
 
 # Highlights 
 - Initiating a function
