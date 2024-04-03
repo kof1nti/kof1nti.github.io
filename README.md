@@ -1,4 +1,4 @@
-# kof1nti.github.io
+# grid
 A portfolio on creating a 2m square grids in R 
 Steps in creating grid in R  portfolio
 kof1nti.github.io
